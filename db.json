@@ -6,7 +6,7 @@
       "description": "Version digital del clasico juego de tres en raya, creado en ReactJS, este juego te permite enfrentarte a un oponente en una cuadrícula de 3x3.",
       "linkproject": "https://tic-tac-toe-rosy-seven.vercel.app/",
       "linkgithub": "https://github.com/edwin141999/tic-tac-toe",
-      "image": "./public/tic_tac_toe.png",
+      "image": "https://i.postimg.cc/9FLwBchS/tic-tac-toe.png",
       "skills": ["HTML", "CSS", "JavaScript","Vite.js"]
     },
     {
