@@ -1,36 +1,49 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-    },
-    {
-      "id": 2,
-      "title": "qui est esse",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-    },
-    {
-      "id": 3,
-      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-    }
-  ],
   "projects": [
     {
       "id": 1,
-      "name": "Project 1",
-      "description": "This is project 1"
+      "title": "Tic-Tac-Toe",
+      "description": "",
+      "link-project": "https://tic-tac-toe-rosy-seven.vercel.app/",
+      "link-github": "https://github.com/edwin141999/tic-tac-toe",
+      "image": "http://placehold.it/700x350",
+      "skills": ["HTML", "CSS", "JavaScript","Vite.js"]
     },
     {
       "id": 2,
-      "name": "Project 2",
-      "description": "This is project 2"
+      "title": "Todo List",
+      "description": "",
+      "link-project": "",
+      "link-github": "https://github.com/edwin141999/todo-list-react-native-app",
+      "image": "http://placehold.it/700x350",
+      "skills": [ "Expo", "React Native"]
     },
     {
       "id": 3,
-      "name": "Project 3",
-      "description": "This is project 3"
+      "title": "Pokemon",
+      "description": "",
+      "link-project": "",
+      "link-github": "",
+      "image": "http://placehold.it/700x350",
+      "skills": ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS"]
+    },
+    {
+      "id": 4,
+      "title": "15-Puzzle Game",
+      "description": "",
+      "link-project": "https://15-puzzle-game-seven.vercel.app/",
+      "link-github": "https://github.com/edwin141999/15-puzzle-game",
+      "image": "http://placehold.it/700x350",
+      "skills": ["HTML", "CSS", "JavaScript","Vite.js", "Tailwind CSS"]
+    },
+    {
+      "id": 5,
+      "title": "Mandadito Express",
+      "description": "Proyecto integrador de la carrera de Ingeniería en Desarrollo de Software de la Universidad Politecnica de Chiapas.",
+      "link-project": "",
+      "link-github": "https://github.com/edwin141999/Mandaditos_Express",
+      "image": "http://placehold.it/700x350",
+      "skills": ["Flutter", "Dart", "AWS"]
     }
   ]
 }
