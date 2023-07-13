@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Tic-Tac-Toe",
-      "description": "Version digital del clasico juego de tres en raya, creado en ReactJS, este juego te permite enfrentarte a un oponente en una cuadrícula de 3x3.",
+      "description": "Version digital del clasico juego de tres en raya, creado en React, este juego te permite enfrentarte a un oponente en una cuadrícula de 3x3.",
       "linkproject": "https://tic-tac-toe-rosy-seven.vercel.app/",
       "linkgithub": "https://github.com/edwin141999/tic-tac-toe",
       "image": "https://i.postimg.cc/9FLwBchS/tic-tac-toe.png",
@@ -12,10 +12,10 @@
     {
       "id": 2,
       "title": "Todo List",
-      "description": "Aplicacion movil que te permite organizar y administrar tus tareas diarias de manera fácil y eficiente. Desarrollado utilizando la plataforma de desarrollo de aplicaciones móviles, React Native, esta aplicación te permite agregar, eliminar y marcar tareas como completadas.",
+      "description": "Aplicacion movil que te permite organizar y administrar tus tareas diarias de manera fácil y eficiente. Utilizando el framework React Native, esta aplicación te permite agregar, eliminar y marcar tareas como completadas.",
       "linkproject": "",
       "linkgithub": "https://github.com/edwin141999/todo-list-react-native-app",
-      "image": "http://placehold.it/700x350",
+      "image": "https://i.postimg.cc/9MfDDyyg/dashboard.png",
       "skills": [ "Expo", "React Native"]
     },
     {
@@ -23,17 +23,17 @@
       "title": "Pokemon",
       "description": "",
       "linkproject": "",
-      "linkgithub": "",
+      "linkgithub": "https://github.com/edwin141999/pokemon-react-js",
       "image": "http://placehold.it/700x350",
       "skills": ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS"]
     },
     {
       "id": 4,
       "title": "15-Puzzle Game",
-      "description": "Recreacion digital del famoso juego deslizante. En este juego, se te presenta una cuadrícula de 4x4 con 15 fichas numeradas y una casilla vacía, utilizando la rápida y eficiente herramienta de construcción de aplicaciones web ViteJS",
+      "description": "Recreacion digital del famoso juego deslizante. En este juego, se te presenta una cuadrícula de 4x4 con 15 fichas numeradas y una casilla vacía, utilizando el framework web Vitejs.",
       "linkproject": "https://15-puzzle-game-seven.vercel.app/",
       "linkgithub": "https://github.com/edwin141999/15-puzzle-game",
-      "image": "http://placehold.it/700x350",
+      "image": "https://i.postimg.cc/TY6BcX9r/15-puzzle-game.png",
       "skills": ["HTML", "CSS", "JavaScript","Vite.js", "Tailwind CSS"]
     },
     {
@@ -42,7 +42,7 @@
       "description": "Proyecto integrador de la carrera de Ingeniería en Desarrollo de Software de la Universidad Politecnica de Chiapas.",
       "linkproject": "",
       "linkgithub": "https://github.com/edwin141999/Mandaditos_Express",
-      "image": "http://placehold.it/700x350",
+      "image": "https://i.postimg.cc/SsX9xw0t/Logo.png",
       "skills": ["Flutter", "Dart", "AWS"]
     }
   ]
