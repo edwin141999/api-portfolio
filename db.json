@@ -21,11 +21,11 @@
     {
       "id": 3,
       "title": "Pokemon",
-      "description": "",
-      "linkproject": "",
+      "description": "Página web que te permite buscar y ver información de tus pokemones favoritos. Utilizando la API de Pokemon, esta página te permite buscar pokemones por nombre, estadisticas o habilidades. Ademas de ver información detallada de cada pokemon.",
+      "linkproject": "https://pokemon-react-js.vercel.app/",
       "linkgithub": "https://github.com/edwin141999/pokemon-react-js",
-      "image": "http://placehold.it/700x350",
-      "skills": ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS"]
+      "image": "https://i.postimg.cc/TwwCJD3g/Screenshot-2023-07-22-at-13-15-38-React-App.png",
+      "skills": ["HTML", "CSS", "JavaScript", "React.js"]
     },
     {
       "id": 4,
