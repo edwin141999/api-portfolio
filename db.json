@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Pokemon",
-      "description": "Página web que te permite buscar y ver información de tus pokemones favoritos. Utilizando la API de Pokemon, esta página te permite buscar pokemones por nombre, estadisticas o habilidades. Ademas de ver información detallada de cada pokemon.",
+      "description": "Página web que te permite buscar y ver información de tus pokemones favoritos. Utilizando la API de Pokémon, esta página te permite buscar pokemones por nombre, estadísticas o habilidades. Además de ver información detallada de cada pokémon.",
       "linkproject": "https://pokemon-react-js.vercel.app/",
       "linkgithub": "https://github.com/edwin141999/pokemon-react-js",
       "image": "https://i.postimg.cc/TwwCJD3g/Screenshot-2023-07-22-at-13-15-38-React-App.png",
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "title": "15-Puzzle Game",
-      "description": "Recreacion digital del famoso juego deslizante. En este juego, se te presenta una cuadrícula de 4x4 con 15 fichas numeradas y una casilla vacía, utilizando el framework web Vitejs.",
+      "description": "Recreación digital del famoso juego deslizante. En este juego, se te presenta una cuadrícula de 4x4 con 15 fichas numeradas y una casilla vacía, utilizando el framework web Vitejs.",
       "linkproject": "https://15-puzzle-game-seven.vercel.app/",
       "linkgithub": "https://github.com/edwin141999/15-puzzle-game",
       "image": "https://i.postimg.cc/TY6BcX9r/15-puzzle-game.png",
@@ -32,7 +32,7 @@
     {
       "id": 3,
       "title": "Tic-Tac-Toe",
-      "description": "Version digital del clasico juego de tres en raya, creado en React, este juego te permite enfrentarte a un oponente en una cuadrícula de 3x3.",
+      "description": "Versión digital del clásico juego de tres en raya, creado en React, este juego te permite enfrentarte a un oponente en una cuadrícula de 3x3.",
       "linkproject": "https://tic-tac-toe-rosy-seven.vercel.app/",
       "linkgithub": "https://github.com/edwin141999/tic-tac-toe",
       "image": "https://i.postimg.cc/9FLwBchS/tic-tac-toe.png",
