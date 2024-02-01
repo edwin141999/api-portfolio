@@ -2,6 +2,20 @@
   "projects": [
     {
       "id": 1,
+      "title": "TMDB Movie Search",
+      "description": "Página creada con la API de TMDb, la cual muestra los datos principales de la película a buscar, desde su título hasta su recaudación mundial, además de tener un buscador para encontrar cualquier pélicula que uno quisiera.",
+      "linkproject": "https://movie-search-nextjs.vercel.app/",
+      "linkgithub": "https://github.com/edwin141999/movie-search-nextjs",
+      "image": "https://i.postimg.cc/PJFyJw74/Screenshot-2024-02-01-at-13-26-59-TMDb-Movie-Search.png",
+      "skills": [
+        "Next.js",
+        "TypeScript",
+        "React-Redux",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "id": 2,
       "title": "Pokemon",
       "description": "Página web que te permite buscar y ver información de tus pokemones favoritos. Utilizando la API de Pokémon, esta página te permite buscar pokemones por nombre, estadísticas o habilidades. Además de ver información detallada de cada pokémon.",
       "linkproject": "https://pokemon-react-js.vercel.app/",
@@ -15,7 +29,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "15-Puzzle Game",
       "description": "Recreación digital del famoso juego deslizante. En este juego, se te presenta una cuadrícula de 4x4 con 15 fichas numeradas y una casilla vacía, utilizando el framework web Vitejs.",
       "linkproject": "https://15-puzzle-game-seven.vercel.app/",
@@ -30,14 +44,18 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Tic-Tac-Toe",
       "description": "Versión digital del clásico juego de tres en raya, creado en React, este juego te permite enfrentarte a un oponente en una cuadrícula de 3x3.",
       "linkproject": "https://tic-tac-toe-rosy-seven.vercel.app/",
       "linkgithub": "https://github.com/edwin141999/tic-tac-toe",
       "image": "https://i.postimg.cc/9FLwBchS/tic-tac-toe.png",
-      "skills": ["HTML", "CSS", "JavaScript","Vite.js"]
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vite.js"
+      ]
     }
-    
   ]
 }
