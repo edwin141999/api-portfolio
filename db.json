@@ -4,7 +4,7 @@
       "id": 1,
       "title": "TMDB Movie Search",
       "description": "Página creada con la API de TMDb, la cual muestra los datos principales de la película a buscar, desde su título hasta su recaudación mundial, además de tener un buscador para encontrar cualquier pélicula que uno quisiera.",
-      "linkproject": "https://movie-search-nextjs.vercel.app/",
+      "linkproject": "https://movie-searchtmdb.vercel.app/",
       "linkgithub": "https://github.com/edwin141999/movie-search-nextjs",
       "image": "https://i.postimg.cc/PJFyJw74/Screenshot-2024-02-01-at-13-26-59-TMDb-Movie-Search.png",
       "skills": [
